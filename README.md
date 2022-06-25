@@ -1,0 +1,3 @@
+# Intrusion-Detection-System-using-DL
+
+This university project work proposes a deep learning model that combines the strengths of a Convolutional Neural Network and a Bi-directional LSTM to learn spatial and temporal data characteristics. The model in this research is trained and tested using the publicly available dataset NSL-KDD and analyzes network traffic and considers different variables such as protocol type, service type and so on. The proposed model has a high rate of detection and a low incidence of false positives. The suggested model outperforms many cutting-edge Network Intrusion Detection solutions that leverage Machine Learning/Deep Learning models.
